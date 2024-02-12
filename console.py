@@ -51,7 +51,7 @@ class HBNBCommand(cmd.Cmd):
         name = args[0]
 
         if name not in self.classes:
-            print("** class doesn't exit **")
+            print("** class doesn't exist **")
             return
         
         if  len(args) < 2:

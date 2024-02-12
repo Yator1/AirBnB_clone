@@ -1,5 +1,10 @@
 #!/usr/bin/python3
 
+"""
+A module that contains the entry point of the command interpreter
+It contains a class HBNBCommand
+"""
+
 import cmd
 from models.base_model import BaseModel
 from models import storage

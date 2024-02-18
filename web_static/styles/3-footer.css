@@ -4,7 +4,11 @@ footer{
 	width: 100%;
 	position: absolute;
 	bottom: 0;
+<<<<<<< HEAD
 	border-top: 1px solid #CCCCCC
+=======
+	border-top: 1px solid #CCCCCC;
+>>>>>>> 6a34dc6ed8e692326c03b717e4b222e64b998e59
 }
 
 footer div{

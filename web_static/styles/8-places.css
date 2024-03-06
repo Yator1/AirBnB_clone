@@ -23,6 +23,13 @@ section.places{
 	justify-content: center;
 }
 
+.places > div{
+	display: flex;
+	flex-wrap: wrap;
+	align-content: space-between;
+	justify-content: center;
+}
+
 .price_by_night{
 	position: absolute;
 	top: 10px;
